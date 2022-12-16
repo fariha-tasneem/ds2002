@@ -1,0 +1,43 @@
+
+{"intents": [
+        {"tag": "question1",
+         "patterns": ["What is the genre of the top best scoring movie in 2017?", "Genre of the best scoring movie in 2017", "genre of the top best scoring movie in 2017"]
+        },
+
+        {"tag": "question2",
+         "patterns": ["Which show had the most number of seasons?", "most number of seasons?", "Most number of seasons?", "most number of seasons"]
+        },
+
+        {"tag": "question3",
+         "patterns": ["Which show scored the highest?", "Highest scoring show", "highest scoring show"]
+        },
+
+        {"tag": "question4",
+         "patterns": ["What is the duration of the shortest episode for a show?", "duration of the shortest episode for a show?"]
+        },
+
+        {"tag": "question5",
+         "patterns": ["What are the top 5 highest scored movies in 2010?", "top 5 highest scored movies in 2010"]
+        },
+
+        {"tag": "question6",
+         "patterns": ["How many comedy movies are there?", "Number of comedy movies"]
+        },
+
+        {"tag": "question7",
+         "patterns": ["What is the lowest scoring movie?", "lowest scoring movie"]
+        },
+
+        {"tag": "question8",
+         "patterns": ["How many movies were rated 'PG' in 2020?", "How many movies were rated pg in 2020?", "Number of movies rated 'PG' in 2020", "number of movies rated pg in 2020"]
+        },
+
+        {"tag": "question9",
+         "patterns": ["How many movies were rated 'R'?", "how many movies were rated r", "Number of movies rated 'R'", "number of rated r movies"]
+        },
+
+        {"tag": "question10",
+         "patterns": ["What are 10 rated 'R' movies from 2021?", "What are 10 rated r movies from 2021?", "10 rated 'R' movies from 2021", "10 rated r movies from 2021"]
+        }
+   ]
+}
