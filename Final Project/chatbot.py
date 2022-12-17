@@ -234,7 +234,7 @@ def chat():
             print("10) What are 10 rated 'R' movies from 2021?")  # from raw titles data
 
         else:
-            print("I didn't get that. Can you explain or try again. One type of question you can ask is 'How many movies were rated 'R'?'")
+            print("I didn't get that. Can you explain or try again. One type of question you can ask is 'Which show scored the highest?'")
 
 
 chat()
