@@ -20,7 +20,6 @@ final_movies_df = movies_df[['TITLE', 'RELEASE_YEAR', 'SCORE', 'MAIN_GENRE']]
 raw_df = pd.read_csv(r'raw_titles.csv')
 final_raw_df = raw_df[['title', 'type', 'release_year', 'age_certification']]
 
-print(final_raw_df)
 
 # PART 2 -  Load data into a MongoDB
 
