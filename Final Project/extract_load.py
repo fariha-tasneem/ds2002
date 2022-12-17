@@ -9,7 +9,7 @@ import pandas as pd
 # PART 1 - extract data sources into one Pandas -> only extracting specific columns
 
 # Shows data
-shows_df = movies_df = pd.read_csv(r'Best Shows Netflix.csv')
+shows_df = pd.read_csv(r'Best Shows Netflix.csv')
 final_shows_df = shows_df[['TITLE', 'RELEASE_YEAR', 'SCORE', 'NUMBER_OF_SEASONS', 'DURATION']]
 
 # Movies data
